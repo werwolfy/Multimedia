@@ -52,8 +52,24 @@
         background-color: var(--Black);
     }
 
+    footer{
+        background-color: var(--DarkGreen);
+        height: 90px;
+        width: 750px;
+        display: flex;
+        padding-left: 10px;
+        font-family: 'Motiva Sans', sans-serif;
+
+
+    }
+
+    footer h3{
+        margin: 2px 0 0 0;
+    }
+
     a{
         text-decoration: none;
+        color: var(--Black);
     }
 
     a:visited{
@@ -78,10 +94,6 @@
         height: 100%;
         width: 760px;
         display: flex;
-        /*
-        Shadow
-         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
-        */
         box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.6);
     }
 
@@ -120,13 +132,30 @@
         background-color: var(--Black);
     }
 
+    footer{
+        background-color: var(--DarkGreen);
+        height: 90px;
+        width: 750px;
+        display: flex;
+        padding-left: 10px;
+        font-family: 'Motiva Sans', sans-serif;
+
+
+    }
+
+    footer h3{
+        margin: 2px 0 0 0;
+    }
+
     a{
         text-decoration: none;
+        color: var(--Black);
     }
 
     a:visited{
     color: var(--Black);
     }
+
 }
 
 :root {
