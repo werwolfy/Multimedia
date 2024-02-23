@@ -52,7 +52,7 @@
         background-color: var(--Black);
     }
 
-    a:link{
+    a{
         text-decoration: none;
     }
 
@@ -120,7 +120,7 @@
         background-color: var(--Black);
     }
 
-    a:link{
+    a{
         text-decoration: none;
     }
 
